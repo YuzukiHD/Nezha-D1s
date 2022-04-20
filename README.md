@@ -1,5 +1,5 @@
 # Nezha-D1s
-Official D1s EVB board
+[AWOL x YuzukiHD] Official D1s EVB board
 
 ![Nezha D1s](.github/assets/Nezha_D1s.jpg)
 
