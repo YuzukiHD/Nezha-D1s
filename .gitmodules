@@ -1,0 +1,3 @@
+[submodule "Software/tina_bsp_patch"]
+	path = Software/tina_bsp_patch
+	url = https://github.com/Tina-Linux/tina-d1s-nezha
